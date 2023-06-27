@@ -1,2 +1,2 @@
 # Modelo para predição de vendas nos próximos 6 meses
-Este repositório contém projetos utilizando diferetes técnicas e temas relacionados à área de Ciencia de Dados
+Neste projeto utilizamos um dataset público da Olist para predizer se determinados vendedores realizarão ou não uma venda nos próximos 6 meses. Este modelo pode ser utilizado pela plataforma de vendas para identificar vendedores que possam necessitar algum tipo de suporte ou auxílio para alavancar suas vendas. Um exemplo seria o fornecimento de cupons ou benefícios que possam ser ofertados aos clientes.
